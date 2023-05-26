@@ -1,0 +1,12 @@
+.img{
+    /* padding-bottom: 30px; */
+    height: 50%;
+    width: 60%;
+}
+
+.imgCaption{
+    font-size: 15px;
+    text-align: left;
+    /* padding-top: 5px; */
+    padding-bottom: 30px;
+}

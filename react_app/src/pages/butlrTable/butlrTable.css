@@ -1,0 +1,34 @@
+
+
+.ButlrApp {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+    
+  .OakTable1 {
+    border: 2px solid #0c62fb;
+    width: 950px;
+    height: 350px;
+  }
+    
+  .thOak {
+    border-bottom: 2px solid black;
+  }
+    
+  .tdOak {
+    text-align: center;
+  }
+  
+  .header{
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: -20px;
+    padding-bottom: 20px;
+  }
+  
+  
+  
+  
